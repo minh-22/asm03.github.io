@@ -1,0 +1,27 @@
+html { font-size: calc(0.2em + 1vw); }
+
+nav .navbar .content {
+    display: none;
+}
+
+nav a:nth-child(2) {
+    border-right: none;
+}
+
+.certificate .section .spec img {
+    border-left: none;
+    padding-left:20px;
+    border-width: 2px;
+    border-color: #d6c08d;
+}
+
+.certificate .section .spec img {
+    padding-left: 0px;
+}
+
+.certificate .inner {
+    border-left: solid;
+    padding-left: 20px;
+    border-width: 2px;
+    border-color: #d6c08d;
+}
